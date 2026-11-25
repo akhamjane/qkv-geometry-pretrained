@@ -1,0 +1,1066 @@
+{
+ "a1.maxdev-m": {
+  "value": "$1.7\\times10^{-14}$",
+  "text": "$1.7\\times10^{-14}$",
+  "cell": "A.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:12"
+ },
+ "a1.maxdev-overlap": {
+  "value": "$4.1\\times10^{-15}$",
+  "text": "$4.1\\times10^{-15}$",
+  "cell": "A.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:12"
+ },
+ "a1.rawcos-change": {
+  "value": 0.026026989490605112,
+  "text": "0.026",
+  "cell": "A.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:12"
+ },
+ "a1.cka-change": {
+  "value": 0.014691788665857358,
+  "text": "0.015",
+  "cell": "A.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:12"
+ },
+ "a1.diag-change": {
+  "value": 0.08323468116083449,
+  "text": "0.083",
+  "cell": "A.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:12"
+ },
+ "a1.n-draws": {
+  "value": 200,
+  "text": "200",
+  "cell": "A.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:12"
+ },
+ "a2.n-entries": {
+  "value": 60,
+  "text": "60",
+  "cell": "A.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:16"
+ },
+ "a2.verdict": {
+  "value": "all 60 entries agree with the analytical derivation",
+  "text": "all 60 entries agree with the analytical derivation",
+  "cell": "A.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:12:16"
+ },
+ "a3.max-relerr-mean": {
+  "value": 0.1660682198228569,
+  "text": "0.17\\%",
+  "cell": "A.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:15:02"
+ },
+ "a3.max-relerr-var": {
+  "value": 5.598382620068356,
+  "text": "5.6\\%",
+  "cell": "A.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:15:02"
+ },
+ "a3.n-configs": {
+  "value": 6,
+  "text": "6",
+  "cell": "A.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:15:02"
+ },
+ "a3.max-z": {
+  "value": 1.8785217483503678,
+  "text": "1.9",
+  "cell": "A.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:15:02"
+ },
+ "a5.prop2-dev": {
+  "value": "$3.3\\times10^{-16}$",
+  "text": "$3.3\\times10^{-16}$",
+  "cell": "A.5",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:27"
+ },
+ "a5.core-dev": {
+  "value": "$1.0\\times10^{-16}$",
+  "text": "$1.0\\times10^{-16}$",
+  "cell": "A.5",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:27"
+ },
+ "a5.commutant-dev": {
+  "value": "$2.8\\times10^{-15}$",
+  "text": "$2.8\\times10^{-15}$",
+  "cell": "A.5",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:27"
+ },
+ "a5.generic-dev": {
+  "value": 13.823377837117395,
+  "text": "13.82",
+  "cell": "A.5",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:27"
+ },
+ "a5.plane-commutant-dev": {
+  "value": "$1.4\\times10^{-16}$",
+  "text": "$1.4\\times10^{-16}$",
+  "cell": "A.5",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:27"
+ },
+ "a5.plane-generic-dev": {
+  "value": 0.06400220752799829,
+  "text": "0.06",
+  "cell": "A.5",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:27"
+ },
+ "a6.recon-maxerr": {
+  "value": "$4.8\\times10^{-8}$",
+  "text": "$4.8\\times10^{-8}$",
+  "cell": "A.6",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:30"
+ },
+ "a6.n-arch": {
+  "value": 9,
+  "text": "9",
+  "cell": "A.6",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:16:30"
+ },
+ "b0.n-models": {
+  "value": 12,
+  "text": "12",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-base-qk-raw": {
+  "value": 0.24910156007482886,
+  "text": "0.249",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-base-kv-raw": {
+  "value": 0.1435559116931204,
+  "text": "0.144",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-base-qv-raw": {
+  "value": 0.11300959664633618,
+  "text": "0.113",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-base-null": {
+  "value": 0.08333333333333333,
+  "text": "0.083",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-base-qk-rho": {
+  "value": "0.184 [0.152, 0.216]",
+  "text": "0.184 [0.152, 0.216]",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.distil-qk-raw": {
+  "value": 0.2566771118569927,
+  "text": "0.257",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.distil-kv-raw": {
+  "value": 0.15231129884861028,
+  "text": "0.152",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.distil-qv-raw": {
+  "value": 0.11848574052741366,
+  "text": "0.118",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.distil-null": {
+  "value": 0.08333333333333333,
+  "text": "0.083",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.distil-qk-rho": {
+  "value": "0.194 [0.148, 0.242]",
+  "text": "0.194 [0.148, 0.242]",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-tiny-qk-raw": {
+  "value": 0.7390557484261324,
+  "text": "0.739",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-tiny-kv-raw": {
+  "value": 0.49524043319258737,
+  "text": "0.495",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-tiny-qv-raw": {
+  "value": 0.46799403395233363,
+  "text": "0.468",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-tiny-null": {
+  "value": 0.5,
+  "text": "0.500",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.bert-tiny-qk-rho": {
+  "value": "0.488 [0.326, 0.579]",
+  "text": "0.488 [0.326, 0.579]",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.fold-maxdiff": {
+  "value": 0.046440788460103355,
+  "text": "0.046",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.fold-maxdiff-model": {
+  "value": "TinyLlama-1.1B, Q\u2013K",
+  "text": "TinyLlama-1.1B, Q\u2013K",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:14"
+ },
+ "b0.hierarchy-verdict": {
+  "value": "the complete ordering $\\rho_{QK}>\\rho_{KV}>\\rho_{QV}$ is significant (Holm-adjusted $p<0.05$) in 3 of 4 absolute-PE MHA models; 1 of 1 partial-RoPE model; 0 of 7 RoPE GQA models, and at least one inequality is significantly reversed in Qwen2.5-1.5B, Qwen2.5-1.5B-Instruct",
+  "text": "the complete ordering $\\rho_{QK}>\\rho_{KV}>\\rho_{QV}$ is significant (Holm-adjusted $p<0.05$) in 3 of 4 absolute-PE MHA models; 1 of 1 partial-RoPE model; 0 of 7 RoPE GQA models, and at least one inequality is significantly reversed in Qwen2.5-1.5B, Qwen2.5-1.5B-Instruct",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:15"
+ },
+ "b0.coupling-pos": {
+  "value": 12,
+  "text": "12",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:15"
+ },
+ "b0.coupling-n": {
+  "value": 12,
+  "text": "12",
+  "cell": "B0.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:23:15"
+ },
+ "b0m.n-heads": {
+  "value": 768,
+  "text": "768",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-chordal": {
+  "value": 1.0,
+  "text": "1.000",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-geodesic": {
+  "value": 0.9832874135238744,
+  "text": "0.983",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-cka": {
+  "value": 0.5967838596586548,
+  "text": "0.60",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-svcca": {
+  "value": 0.9795087413389666,
+  "text": "0.98",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-pwcca": {
+  "value": 0.9384686017268207,
+  "text": "0.94",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-procrustes": {
+  "value": 0.7433295481970174,
+  "text": "0.74",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-rawcos": {
+  "value": 0.13947770371371568,
+  "text": "0.14",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.overlap-salign": {
+  "value": 0.1903399325322695,
+  "text": "0.19",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.gauge-overlap": {
+  "value": "$3.5\\times10^{-16}$",
+  "text": "$3.5\\times10^{-16}$",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.gauge-cka": {
+  "value": 48.59824313516423,
+  "text": "49\\%",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.gauge-procrustes": {
+  "value": 20.82334830950286,
+  "text": "21\\%",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.gauge-rawcos": {
+  "value": 54.45210864910963,
+  "text": "54\\%",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:03"
+ },
+ "b0m.discord-aniso": {
+  "value": "0.15 [0.08, 0.23]",
+  "text": "0.15 [0.08, 0.23]",
+  "cell": "B0.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:27:05"
+ },
+ "b1.mb-n": {
+  "value": 25,
+  "text": "25",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-qk-mean": {
+  "value": 0.20637649334435204,
+  "text": "0.206",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-qk-sd": {
+  "value": 0.0041350633072046875,
+  "text": "0.0041",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-qk-q95": {
+  "value": 0.011676205741118939,
+  "text": "0.0117",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-kv-mean": {
+  "value": 0.06928343940097856,
+  "text": "0.069",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-kv-sd": {
+  "value": 0.002670411803366528,
+  "text": "0.0027",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-kv-q95": {
+  "value": 0.006937348046309757,
+  "text": "0.0069",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-qv-mean": {
+  "value": 0.03227942845592146,
+  "text": "0.032",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-qv-sd": {
+  "value": 0.0014888106948234654,
+  "text": "0.0015",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-qv-q95": {
+  "value": 0.003906780931777324,
+  "text": "0.0039",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-cpl-mean": {
+  "value": 0.11737232115123943,
+  "text": "0.117",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-cpl-sd": {
+  "value": 0.0032066791560029888,
+  "text": "0.0032",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-cpl-q95": {
+  "value": 0.01123955878759916,
+  "text": "0.0112",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:57"
+ },
+ "b1.mb-hier-count": {
+  "value": "25 of 25",
+  "text": "25 of 25",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:58"
+ },
+ "b1.bertbase-within": {
+  "value": "outside",
+  "text": "outside",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:58"
+ },
+ "b1.distil-vs-base": {
+  "value": 0.00979039143657448,
+  "text": "+0.010",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:58"
+ },
+ "b1.distil-vs-floor": {
+  "value": "below",
+  "text": "below",
+  "cell": "B1.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:29:58"
+ },
+ "b2.minis-n": {
+  "value": 24,
+  "text": "24",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:37"
+ },
+ "b2.minis-rho-min": {
+  "value": 0.21805443076687414,
+  "text": "0.218",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:37"
+ },
+ "b2.minis-rho-max": {
+  "value": 0.48762753847042983,
+  "text": "0.488",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:37"
+ },
+ "b2.minis-spearman": {
+  "value": "-0.91 [-0.98, -0.74]",
+  "text": "$-$0.91 [$-$0.98, $-$0.74]",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:38"
+ },
+ "b2.minis-raw-null-spearman": {
+  "value": "0.95 [0.87, 0.97]",
+  "text": "0.95 [0.87, 0.97]",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:39"
+ },
+ "b2.minis-coef-l": {
+  "value": "-0.053 [-0.062, -0.043]",
+  "text": "$-$0.053 [$-$0.062, $-$0.043]",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:39"
+ },
+ "b2.minis-coef-h": {
+  "value": "-0.052 [-0.060, -0.043]",
+  "text": "$-$0.052 [$-$0.060, $-$0.043]",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:39"
+ },
+ "b2.minis-r2": {
+  "value": 0.9338028094235665,
+  "text": "0.93",
+  "cell": "B2.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:31:39"
+ },
+ "b2.pythia-n": {
+  "value": 8,
+  "text": "8",
+  "cell": "B2.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:33:47"
+ },
+ "b2.pythia-spearman": {
+  "value": "-1.00 [-1.00, -1.00]",
+  "text": "$-$1.00 [$-$1.00, $-$1.00]",
+  "cell": "B2.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:33:47"
+ },
+ "b2.minis-qk-dbic": {
+  "value": -3.0812679925007416,
+  "text": "$-$3.1",
+  "cell": "B2.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:34:36"
+ },
+ "b2.minis-qk-p": {
+  "value": "$p=1.00$",
+  "text": "$p=1.00$",
+  "cell": "B2.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:34:36"
+ },
+ "b2.threshold-verdict": {
+  "value": "a breakpoint meets the pre-registered criterion for the K\u2013V excess of the BERT miniatures ($\\hat\\psi\\approx10$M parameters, $\\Delta$BIC $=21.2$); the Q\u2013V excess of the BERT miniatures ($\\hat\\psi\\approx10$M parameters, $\\Delta$BIC $=29.0$), but not for the Q\u2013K excess of the BERT miniatures ($\\Delta$BIC $=-3.1$); the Q\u2013K excess of the Pythia sizes ($\\Delta$BIC $=-2.6$); the K\u2013V excess of the Pythia sizes ($\\Delta$BIC $=-0.8$); the Q\u2013V excess of the Pythia sizes ($\\Delta$BIC $=-1.7$)",
+  "text": "a breakpoint meets the pre-registered criterion for the K\u2013V excess of the BERT miniatures ($\\hat\\psi\\approx10$M parameters, $\\Delta$BIC $=21.2$); the Q\u2013V excess of the BERT miniatures ($\\hat\\psi\\approx10$M parameters, $\\Delta$BIC $=29.0$), but not for the Q\u2013K excess of the BERT miniatures ($\\Delta$BIC $=-3.1$); the Q\u2013K excess of the Pythia sizes ($\\Delta$BIC $=-2.6$); the K\u2013V excess of the Pythia sizes ($\\Delta$BIC $=-0.8$); the Q\u2013V excess of the Pythia sizes ($\\Delta$BIC $=-1.7$)",
+  "cell": "B2.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:34:36"
+ },
+ "b2.n-fits": {
+  "value": 6,
+  "text": "6",
+  "cell": "B2.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:34:36"
+ },
+ "b2.distill-outside": {
+  "value": "0 of 6",
+  "text": "0 of 6",
+  "cell": "B2.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:34:55"
+ },
+ "b2.distil-vs-mini": {
+  "value": -0.058488509771123215,
+  "text": "$-$0.058",
+  "cell": "B2.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:34:55"
+ },
+ "b2.distil-vs-mini-floor": {
+  "value": "exceeds",
+  "text": "exceeds",
+  "cell": "B2.3",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:34:55"
+ },
+ "b2.step0-maxabs": {
+  "value": "$5.1\\times10^{-4}$",
+  "text": "$5.1\\times10^{-4}$",
+  "cell": "B2.4",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:47:11"
+ },
+ "b2.emergence": {
+  "value": "70m: step 4000; 160m: step 4000; 410m: step 8000",
+  "text": "70m: step 4000; 160m: step 4000; 410m: step 8000",
+  "cell": "B2.4",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:47:11"
+ },
+ "b3.n-models": {
+  "value": 8,
+  "text": "8",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:09"
+ },
+ "b3.n-heads": {
+  "value": 5152,
+  "text": "5,152",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:09"
+ },
+ "b3.prop2-maxdev": {
+  "value": "$8.9\\times10^{-16}$",
+  "text": "$8.9\\times10^{-16}$",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:09"
+ },
+ "b3.salign0-range": {
+  "value": "0.033 to 0.130",
+  "text": "0.033 to 0.130",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:09"
+ },
+ "b3.salign-last-range": {
+  "value": "0.026 to 0.129",
+  "text": "0.026 to 0.129",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:09"
+ },
+ "b3.topr-maxchange": {
+  "value": 0.013968654792150578,
+  "text": "0.014",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:09"
+ },
+ "b3.freq-verdict": {
+  "value": "per-plane Q\u2013K excess decreases significantly with frequency (Holm $p<0.05$) in 5 of 8 RoPE models, increases significantly in 0, and shows no significant monotone trend in 3",
+  "text": "per-plane Q\u2013K excess decreases significantly with frequency (Holm $p<0.05$) in 5 of 8 RoPE models, increases significantly in 0, and shows no significant monotone trend in 3",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:19"
+ },
+ "b3.freq-range": {
+  "value": "-0.87 to +0.14",
+  "text": "$-$0.87 to +0.14",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:19"
+ },
+ "b3.pass-vs-rot": {
+  "value": "Pythia-1.4B: 0.076 vs. 0.036; Pythia-160M: 0.124 vs. 0.060; Phi-2: 0.076 vs. 0.036",
+  "text": "Pythia-1.4B: 0.076 vs. 0.036; Pythia-160M: 0.124 vs. 0.060; Phi-2: 0.076 vs. 0.036",
+  "cell": "B3.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 17:54:19"
+ },
+ "b3.act-weight-cca": {
+  "value": "0.86 [0.85, 0.87]",
+  "text": "0.86 [0.85, 0.87]",
+  "cell": "B3.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:03:40"
+ },
+ "b3.act-weight-cca-range": {
+  "value": "0.76 to 0.94",
+  "text": "0.76 to 0.94",
+  "cell": "B3.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:03:40"
+ },
+ "b3.act-cca-excess": {
+  "value": 0.3290128531087072,
+  "text": "0.329",
+  "cell": "B3.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:03:40"
+ },
+ "b3.act-cca-null": {
+  "value": 0.006771512760689829,
+  "text": "0.0068",
+  "cell": "B3.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:03:40"
+ },
+ "b3.act-pca-change": {
+  "value": "0.114 [0.094, 0.137]",
+  "text": "0.114 [0.094, 0.137]",
+  "cell": "B3.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:03:40"
+ },
+ "b6.n-models": {
+  "value": 35,
+  "text": "35",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:11"
+ },
+ "b6.qk-above-null": {
+  "value": "37 of 37",
+  "text": "37 of 37",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:11"
+ },
+ "b6.coupling-pos": {
+  "value": "37 of 37",
+  "text": "37 of 37",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:11"
+ },
+ "b6.hierarchy-verdict": {
+  "value": "the complete ordering $\\rho_{QK}>\\rho_{KV}>\\rho_{QV}$ is significant (Holm-adjusted $p<0.05$) in 5 of 10 absolute-PE MHA models; 2 of 9 partial-RoPE models; 1 of 4 RoPE MHA models; 0 of 10 RoPE GQA models, and at least one inequality is significantly reversed in Qwen2.5-1.5B, Qwen2.5-1.5B-Instruct, Qwen2.5-7B",
+  "text": "the complete ordering $\\rho_{QK}>\\rho_{KV}>\\rho_{QV}$ is significant (Holm-adjusted $p<0.05$) in 5 of 10 absolute-PE MHA models; 2 of 9 partial-RoPE models; 1 of 4 RoPE MHA models; 0 of 10 RoPE GQA models, and at least one inequality is significantly reversed in Qwen2.5-1.5B, Qwen2.5-1.5B-Instruct, Qwen2.5-7B",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.hier-by-regime": {
+  "value": "absolute-PE MHA, complete ordering in 5 of 10 and at least one significant reversal in 0 of 10; partial-RoPE, complete ordering in 2 of 9 and at least one significant reversal in 0 of 9; RoPE MHA, complete ordering in 1 of 4 and at least one significant reversal in 0 of 4; RoPE GQA, complete ordering in 0 of 10 and at least one significant reversal in 3 of 10",
+  "text": "absolute-PE MHA, complete ordering in 5 of 10 and at least one significant reversal in 0 of 10; partial-RoPE, complete ordering in 2 of 9 and at least one significant reversal in 0 of 9; RoPE MHA, complete ordering in 1 of 4 and at least one significant reversal in 0 of 4; RoPE GQA, complete ordering in 0 of 10 and at least one significant reversal in 3 of 10",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.t5-enc-self-qk": {
+  "value": "0.173 [0.140, 0.211]",
+  "text": "0.173 [0.140, 0.211]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.t5-enc-self-kv": {
+  "value": "0.131 [0.113, 0.149]",
+  "text": "0.131 [0.113, 0.149]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.t5-dec-self-qk": {
+  "value": "0.087 [0.074, 0.105]",
+  "text": "0.087 [0.074, 0.105]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.t5-dec-self-kv": {
+  "value": "0.058 [0.045, 0.071]",
+  "text": "0.058 [0.045, 0.071]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.t5-cross-qk": {
+  "value": "0.047 [0.031, 0.066]",
+  "text": "0.047 [0.031, 0.066]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.t5-cross-kv": {
+  "value": "0.078 [0.057, 0.098]",
+  "text": "0.078 [0.057, 0.098]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.bart-enc-self-qk": {
+  "value": "0.317 [0.258, 0.391]",
+  "text": "0.317 [0.258, 0.391]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.bart-enc-self-kv": {
+  "value": "0.102 [0.080, 0.130]",
+  "text": "0.102 [0.080, 0.130]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.bart-dec-self-qk": {
+  "value": "0.170 [0.127, 0.216]",
+  "text": "0.170 [0.127, 0.216]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.bart-dec-self-kv": {
+  "value": "0.075 [0.049, 0.107]",
+  "text": "0.075 [0.049, 0.107]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.bart-cross-qk": {
+  "value": "0.057 [0.034, 0.093]",
+  "text": "0.057 [0.034, 0.093]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.bart-cross-kv": {
+  "value": "0.081 [0.024, 0.128]",
+  "text": "0.081 [0.024, 0.128]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.gqa-group-vs-head": {
+  "value": "Qwen2.5-0.5B: 0.456 vs. 0.122; Qwen2.5-0.5B-Instruct: 0.450 vs. 0.121; Qwen2.5-1.5B: 0.409 vs. 0.111; Qwen2.5-1.5B-Instruct: 0.409 vs. 0.111; Qwen2.5-7B: 0.371 vs. 0.105; TinyLlama-1.1B: 0.370 vs. 0.125; Llama-3.1-8B: 0.219 vs. 0.089; Llama-3.2-1B: 0.240 vs. 0.097; Mistral-7B-Instruct: 0.238 vs. 0.097; Mistral-7B: 0.240 vs. 0.098",
+  "text": "Qwen2.5-0.5B: 0.456 vs. 0.122; Qwen2.5-0.5B-Instruct: 0.450 vs. 0.121; Qwen2.5-1.5B: 0.409 vs. 0.111; Qwen2.5-1.5B-Instruct: 0.409 vs. 0.111; Qwen2.5-7B: 0.371 vs. 0.105; TinyLlama-1.1B: 0.370 vs. 0.125; Llama-3.1-8B: 0.219 vs. 0.089; Llama-3.2-1B: 0.240 vs. 0.097; Mistral-7B-Instruct: 0.238 vs. 0.097; Mistral-7B: 0.240 vs. 0.098",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.gqa-n": {
+  "value": 10,
+  "text": "10",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.olmoe-qk": {
+  "value": "0.138 [0.119, 0.158]",
+  "text": "0.138 [0.119, 0.158]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.qwenmoe-qk": {
+  "value": "0.161 [0.130, 0.200]",
+  "text": "0.161 [0.130, 0.200]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.llama31-qk": {
+  "value": "0.089 [0.068, 0.116]",
+  "text": "0.089 [0.068, 0.116]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.qwen7b-qk": {
+  "value": "0.105 [0.084, 0.129]",
+  "text": "0.105 [0.084, 0.129]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.mistral-qk": {
+  "value": "0.098 [0.074, 0.126]",
+  "text": "0.098 [0.074, 0.126]",
+  "cell": "B6.1",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:12"
+ },
+ "b6.families-per-regime": {
+  "value": "absolute-PE MHA: 7 families; relative-bias: 1 family; partial-RoPE: 2 families; RoPE MHA: 4 families; RoPE GQA: 4 families",
+  "text": "absolute-PE MHA: 7 families; relative-bias: 1 family; partial-RoPE: 2 families; RoPE MHA: 4 families; RoPE GQA: 4 families",
+  "cell": "B6.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:14"
+ },
+ "b6.family-verdict": {
+  "value": "at the family level, $\\rho_{QK}$ differs between RoPE GQA and absolute-PE MHA families ($\\Delta=-0.144$, Holm $p=0.042$); $\\rho_{QK}-\\rho_{KV}$ differs between RoPE MHA and absolute-PE MHA families ($\\Delta=-0.140$, Holm $p=0.042$); $\\rho_{QK}-\\rho_{KV}$ differs between RoPE GQA and absolute-PE MHA families ($\\Delta=-0.191$, Holm $p=0.027$); $\\rho_{KV}-\\rho_{QV}$ differs between RoPE GQA and absolute-PE MHA families ($\\Delta=+0.049$, Holm $p=0.027$)",
+  "text": "at the family level, $\\rho_{QK}$ differs between RoPE GQA and absolute-PE MHA families ($\\Delta=-0.144$, Holm $p=0.042$); $\\rho_{QK}-\\rho_{KV}$ differs between RoPE MHA and absolute-PE MHA families ($\\Delta=-0.140$, Holm $p=0.042$); $\\rho_{QK}-\\rho_{KV}$ differs between RoPE GQA and absolute-PE MHA families ($\\Delta=-0.191$, Holm $p=0.027$); $\\rho_{KV}-\\rho_{QV}$ differs between RoPE GQA and absolute-PE MHA families ($\\Delta=+0.049$, Holm $p=0.027$)",
+  "cell": "B6.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:14"
+ },
+ "b6.family-mixed-qk": {
+  "value": "RoPE GQA -0.156 [-0.191, -0.122], Holm $p<10^{-4}$; RoPE MHA -0.126 [-0.164, -0.088], Holm $p<10^{-4}$; partial-RoPE -0.146 [-0.181, -0.111], Holm $p<10^{-4}$",
+  "text": "RoPE GQA $-$0.156 [$-$0.191, $-$0.122], Holm $p<10^{-4}$; RoPE MHA $-$0.126 [$-$0.164, $-$0.088], Holm $p<10^{-4}$; partial-RoPE $-$0.146 [$-$0.181, $-$0.111], Holm $p<10^{-4}$",
+  "cell": "B6.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:15"
+ },
+ "b6.hier-by-family": {
+  "value": "absolute-PE MHA: complete ordering in the majority of models of 4 of 6 families; partial-RoPE: complete ordering in the majority of models of 0 of 2 families; RoPE MHA: complete ordering in the majority of models of 1 of 4 families; RoPE GQA: complete ordering in the majority of models of 0 of 4 families",
+  "text": "absolute-PE MHA: complete ordering in the majority of models of 4 of 6 families; partial-RoPE: complete ordering in the majority of models of 0 of 2 families; RoPE MHA: complete ordering in the majority of models of 1 of 4 families; RoPE GQA: complete ordering in the majority of models of 0 of 4 families",
+  "cell": "B6.2",
+  "note": "",
+  "smoke": false,
+  "time": "2026-11-24 18:08:15"
+ }
+}

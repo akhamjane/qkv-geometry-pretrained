@@ -1,0 +1,8 @@
+outputs/
+outputs_smoke/
+paper_smoke/
+hf_cache/
+*_results.zip
+paper/*_filled.*
+.ipynb_checkpoints/
+__pycache__/
