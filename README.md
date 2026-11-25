@@ -65,4 +65,4 @@ A complete run of this notebook, exactly as published here (Kaggle, Tesla T4 GPU
 
 ## Citation
 
-[Reference of the paper, to be added after publication.]
+
